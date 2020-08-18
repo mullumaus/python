@@ -1,1 +1,2 @@
-# python-project
+# python
+Python Applets
