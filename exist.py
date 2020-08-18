@@ -12,9 +12,6 @@
 #
 # 输入：board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"
 # 输出：true
-#
-# 来源：力扣（LeetCode）
-# 链接：https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof
 
 class Solution(object):
     def exist(self, board, word):
